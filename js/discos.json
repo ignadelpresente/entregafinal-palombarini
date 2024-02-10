@@ -1,0 +1,42 @@
+[
+    {
+      "nombreDisco": "Currents",
+      "nombreBanda": "Tame Impala",
+      "precioDisco": 40,
+      "estadoDisco": "Nuevo",
+      "cantidad": 2,
+      "rutaImagen": "../images/currents.jpg"
+    },
+    {
+      "nombreDisco": "Lonerism",
+      "nombreBanda": "Tame Impala",
+      "precioDisco": 22,
+      "estadoDisco": "Nuevo",
+      "cantidad": 1,
+      "rutaImagen": "../images/lonerism.jpg"
+    },
+    {
+      "nombreDisco": "Tattoo You",
+      "nombreBanda": "Rolling Stones",
+      "precioDisco": 20,
+      "estadoDisco": "Nuevo",
+      "cantidad": 1,
+      "rutaImagen": "../images/TattooYou.jpg"
+    },
+    {
+      "nombreDisco": "Destelloz",
+      "nombreBanda": "Clubz",
+      "precioDisco": 19,
+      "estadoDisco": "Nuevo",
+      "cantidad": 1,
+      "rutaImagen": "../images/destelloz.jpg"
+    },
+    {
+      "nombreDisco": "This is it",
+      "nombreBanda": "The Strokes",
+      "precioDisco": 50,
+      "estadoDisco": "Nuevo",
+      "cantidad": 1,
+      "rutaImagen": "../images/isthisit.png"
+    }
+  ]
